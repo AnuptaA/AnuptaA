@@ -2,8 +2,9 @@
 <h3 align="center">A CS major on a continuous path of growth and improvement.</h3>
 
 - 🌱 I’m currently learning **front-end development.**
-
-- 📫 How to reach me: **anupta@princeton.edu**
+- 🎓 Pursuing Computer Science (BSE) at **Princeton University** with a minor in Statistics and Machine Learning and a certificate in Optimization and Quantitative Decision Science.
+- 📫 Contact me at **anupta@princeton.edu**
+- 📝 You can find my projects and miscellaneous work on [GitHub](https://github.com/AnuptaA)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,13 +15,16 @@
 </p>
 
 <!-- Languages and Tools section -->
-* <h3 align="left">Languages:</h3>
+* <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,mysql,postgres,nodejs,react,docker&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,mysql,postgres,nodejs,react,docker&perline=12" />
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuptaa&show_icons=true&locale=en" alt="anuptaa" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuptaa&" alt="anuptaa" /></p>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuptaa&show_icons=true&locale=en" alt="anuptaa" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuptaa&" alt="anuptaa" />
+</div>
+
 
