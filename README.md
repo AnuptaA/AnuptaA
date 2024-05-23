@@ -21,12 +21,11 @@
   </a>
 </p>
 
-<h3 align="left">Some GitHub Activity:</h3>
-<p align="center>
+<h3 align="left">Recent GitHub Activity:</h3>
+<p align="center">
   <a>
     <img src="https://github-readme-stats.vercel.app/api?username=anuptaa&show_icons=true&locale=en" alt="anuptaa" style="margin: 10px;" />
   </a>
-</p>
   <a>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuptaa&" alt="anuptaa" style="margin: 10px;" />
   </a>
