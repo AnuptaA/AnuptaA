@@ -21,8 +21,12 @@
   </a>
 </p>
 
-<h3 align="left">Some GitHub Activity:</h3>
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuptaa&show_icons=true&locale=en" alt="anuptaa" style="margin: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuptaa&" alt="anuptaa" style="margin: 10px;" />
-</div>
+<h3 align="center">Some GitHub Activity:</h3>
+<center>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=anuptaa&show_icons=true&locale=en" alt="anuptaa" style="margin: 10px;" />
+  </div>
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuptaa&" alt="anuptaa" style="margin: 10px;" />
+  </div>
+</center>
