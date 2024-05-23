@@ -14,13 +14,14 @@
 </p>
 
 <!-- Languages and Tools section -->
-* <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,mysql,postgres,nodejs,react,docker&perline=12" />
   </a>
 </p>
 
+<h3 align="left">Some GitHub Activity:</h3>
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
   <img src="https://github-readme-stats.vercel.app/api?username=anuptaa&show_icons=true&locale=en" alt="anuptaa" style="margin: 10px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuptaa&" alt="anuptaa" style="margin: 10px;" />
