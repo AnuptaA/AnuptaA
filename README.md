@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<h3 align="left">Recent GitHub Activity:</h3>
+<h3 align="left">Miscellaneous GitHub Activity:</h3>
 <p align="center">
   <a>
     <img src="https://github-readme-stats.vercel.app/api?username=anuptaa&show_icons=true&locale=en" alt="anuptaa" style="margin: 10px;" />
