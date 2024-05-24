@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Anupta Argo</h1>
+<h1 align="center">Hi 👋, I'm Anupta</h1>
 <h3 align="center">A CS major on a continuous path of growth and improvement.</h3>
 
 - 🌱 I’m currently learning **front-end development.**
 - 🎓 Pursuing Computer Science (BSE) at **Princeton University** with a minor in Statistics and Machine Learning and a certificate in Optimization and Quantitative Decision Science.
 - 📫 Contact me at **anupta@princeton.edu**
-- 📝 You can find my projects and miscellaneous work on [GitHub](https://github.com/AnuptaA)
+- 📝 You can find my projects and miscellaneous work on [GitHub](https://github.com/AnuptaA) for now.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
