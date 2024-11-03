@@ -7,11 +7,11 @@
 - 📝 You can find my projects and miscellaneous work on [GitHub](https://github.com/AnuptaA) for now.
 
 <h3 align="left">Connect with me:</h3>
-<div style="display: flex; justify-content: center; align-items: center">
+<p align="center">
 <a href="https://linkedin.com/in/anupta-argo" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="anupta-argo" height="30" width="40" /></a>
 <a href="https://instagram.com/nolimitnupta" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="nolimitnupta" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anupta" height="30" width="40" /></a>
- </div>
+</p>
 
 <!-- Languages and Tools section -->
 <h3 align="left">Languages and Tools:</h3>
