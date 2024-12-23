@@ -27,6 +27,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=anuptaa&show_icons=true&locale=en" alt="anuptaa" style="margin: 10px;" />
   </a>
   <a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuptaa&" alt="anuptaa" style="margin: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuptaa&hide_progress=true" alt="anuptaa" style="margin:10px;"/>
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuptaa&" alt="anuptaa" style="margin: 10px;" /> -->
   </a>
 </p>
