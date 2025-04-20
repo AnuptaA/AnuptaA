@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anupta</h1>
 <h3 align="center">A CS major on a continuous path of growth and improvement.</h3>
 
-- 🌱 I’m currently improving at **back-end development.** 
+- 🌱 I’m currently enjoying learning about **distributed computing algorithms.** 
 - 🎓 Pursuing Computer Science (BSE) at **Princeton University** with a minor in Statistics and Machine Learning and a certificate in Optimization and Quantitative Decision Science.
 - 📫 Contact me at **anupta@princeton.edu**
-- 📝 You can find my projects and miscellaneous work on [GitHub](https://github.com/AnuptaA) for now.
+- 📝 You can find my projects on [GitHub](https://github.com/AnuptaA) and a more thorough portfolio [here](https://anuptaa.github.io/portfolio/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
