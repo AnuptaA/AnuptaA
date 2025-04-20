@@ -14,7 +14,7 @@
 </p>
 
 <!-- Languages and Tools section -->
-<h3 align="left">Languages and Tools (Last Updated Sept. 2024):</h3>
+<h3 align="left">Languages and Tools (Last Updated Nov. 2024):</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,mysql,postgres,nodejs,flask,express,jquery,react,nextjs,docker&perline=12" />
