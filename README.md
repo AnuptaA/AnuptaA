@@ -9,12 +9,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/anupta-argo" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="anupta-argo" height="30" width="40" /></a>
-<a href="https://instagram.com/nolimitnupta" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="nolimitnupta" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/nolimitnupta" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="nolimitnupta" height="30" width="40" /></a> -->
 <a href="https://www.leetcode.com/anupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anupta" height="30" width="40" /></a>
 </p>
 
 <!-- Languages and Tools section -->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools (Last Updated Sept. 2024):</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,mysql,postgres,nodejs,flask,express,jquery,react,nextjs,docker&perline=12" />
