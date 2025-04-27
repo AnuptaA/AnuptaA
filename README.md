@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anupta</h1>
 <h3 align="center">A CS major on a continuous path of growth and improvement.</h3>
 
-- 🌱 I’m currently enjoying learning about **distributed computing algorithms.** 
+- 🌱 I’m currently learning about **federated learning algorithms.** 
 - 🎓 Pursuing Computer Science (BSE) at **Princeton University** with a minor in Statistics and Machine Learning and a certificate in Optimization and Quantitative Decision Science.
 - 📫 Contact me at **anupta@princeton.edu**
 - 📝 You can find my projects on [GitHub](https://github.com/AnuptaA) and a more thorough portfolio [here](https://anuptaa.github.io/portfolio/).
