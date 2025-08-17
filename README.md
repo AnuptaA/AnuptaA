@@ -45,7 +45,7 @@ print(f"Welcome to {student.name}'s profile!")
 $ find /princeton/relevant_courses -name "*.completed" -exec basename {} .completed \;
 
 Algorithms_and_Data_Structures
-Reasoning_About_Computation  
+Reasoning_About_Computation
 Economics_and_Computing
 Algorithms_for_Computational_Biology
 Advanced_Programming_Techniques
@@ -54,7 +54,7 @@ Distributed_Systems
 Computer_Architecture
 Contemporary_Logic_Design
 Intro_to_Machine_Learning
-Natural_Language_Processing  
+Natural_Language_Processing
 Intro_to_Data_Science
 Multivariate_Statistics
 Optimization
@@ -73,7 +73,7 @@ anupta@contact-server:~$ cat /etc/motd
 anupta@contact-server:~$ ls -la /usr/local/bin/
 total 16
 -rwxr-xr-x 1 anupta anupta 4096 Aug 17 12:34 linkedin -> https://linkedin.com/in/anupta-argo
--rwxr-xr-x 1 anupta anupta 4096 Aug 17 12:34 leetcode -> https://leetcode.com/anupta  
+-rwxr-xr-x 1 anupta anupta 4096 Aug 17 12:34 leetcode -> https://leetcode.com/anupta
 -rwxr-xr-x 1 anupta anupta 4096 Aug 17 12:34 portfolio -> https://anuptaa.github.io/portfolio
 -rwxr-xr-x 1 anupta anupta 4096 Aug 17 12:34 email -> mailto:anupta@princeton.edu
 
@@ -100,7 +100,7 @@ drwxr-xr-x  3 anupta princeton   96 Aug 17 2024 ..
 ```
 ---
 ```bash
-$ cat ~/tech_stack/frameworks.txt`
+$ cat ~/tech_stack/frameworks.txt
 
 Frontend Framework:
 ├── React
