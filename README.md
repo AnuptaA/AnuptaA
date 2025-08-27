@@ -144,4 +144,3 @@ PID    USER     %CPU  %MEM  TIME+    COMMAND
 2854   anupta    4.2   1.2  02:14.38 web_development
 ```
 ---
-![](https://komarev.com/ghpvc/?username=AnuptaA&color=green)
