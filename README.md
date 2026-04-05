@@ -11,7 +11,8 @@
 
 ## Anupta Argo
 
-**MSE Computer Science @ Princeton University** 
+**Incoming MSE Computer Science @ Princeton University**
+---
 Philadelphia, PA · Princeton, NJ · anupta@princeton.edu
 
 ---
