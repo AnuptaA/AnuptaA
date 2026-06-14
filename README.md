@@ -9,29 +9,9 @@
                   /_/                      
 ```
 
-## Anupta Argo
-
-**Incoming MSE Computer Science @ Princeton University**
-
-Philadelphia, PA · Princeton, NJ · anupta@princeton.edu
-
----
-
 ### `$ ./research`
 
 Interested in the systems and theory that make infrastructure fast and efficient at scale. Broadly curious about data systems, distributed systems, and where ML meets infrastructure.
-
----
-
-### `$ ls ~/skills`
-
-```
-Languages:  Python · Java · C++ · Go · JavaScript · TypeScript · SQL · R · Bash
-Systems:    Distributed Systems · Computer Networks · Vector Databases
-ML / Data:  PyTorch · TensorFlow · OpenCLIP · pandas · NumPy
-Web:        React · Next.js · Svelte · TailwindCSS · Flask · FastAPI · Node.js
-Infra:      Docker · AWS S3 · Git · Render
-```
 
 ---
 
@@ -40,16 +20,7 @@ Infra:      Docker · AWS S3 · Git · Render
 ```
 MS  Computer Science              Princeton University    2026 → 2028
 BSE Computer Science              Princeton University    2022 → 2026
-    Minor: Statistics & Machine Learning
 ```
-
----
-
-### `$ grep -r "teaching" ~/experience`
-
-TA at Princeton for **COS226** (Algorithms) · **COS126** (Intro CS) · **COS240** (Reasoning About Computation) · **COS445** (Economics & Computing) · **ORF245** (Statistics)
-
----
 
 ### `$ cat /etc/contact`
 
